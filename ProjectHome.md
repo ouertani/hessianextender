@@ -1,0 +1,1 @@
+Use hessain extender with spring DM to communicate bundle inside osgi container and simple java application
